@@ -1,0 +1,11 @@
+F:\iMe\Project\StartUp\Project\StartUp.Confluence\StartUp.Confluence\StartUp.Confluence.Model\bin\Debug\netcoreapp2.2\StartUp.Confluence.Model.deps.json
+F:\iMe\Project\StartUp\Project\StartUp.Confluence\StartUp.Confluence\StartUp.Confluence.Model\bin\Debug\netcoreapp2.2\StartUp.Confluence.Model.dll
+F:\iMe\Project\StartUp\Project\StartUp.Confluence\StartUp.Confluence\StartUp.Confluence.Model\obj\Debug\netcoreapp2.2\StartUp.Confluence.Model.csproj.CoreCompileInputs.cache
+F:\iMe\Project\StartUp\Project\StartUp.Confluence\StartUp.Confluence\StartUp.Confluence.Model\obj\Debug\netcoreapp2.2\StartUp.Confluence.Model.AssemblyInfoInputs.cache
+F:\iMe\Project\StartUp\Project\StartUp.Confluence\StartUp.Confluence\StartUp.Confluence.Model\obj\Debug\netcoreapp2.2\StartUp.Confluence.Model.AssemblyInfo.cs
+F:\iMe\Project\StartUp\Project\StartUp.Confluence\StartUp.Confluence\StartUp.Confluence.Model\bin\Debug\netcoreapp2.2\StartUp.Confluence.Model.runtimeconfig.json
+F:\iMe\Project\StartUp\Project\StartUp.Confluence\StartUp.Confluence\StartUp.Confluence.Model\bin\Debug\netcoreapp2.2\StartUp.Confluence.Model.runtimeconfig.dev.json
+F:\iMe\Project\StartUp\Project\StartUp.Confluence\StartUp.Confluence\StartUp.Confluence.Model\bin\Debug\netcoreapp2.2\StartUp.Confluence.Model.pdb
+F:\iMe\Project\StartUp\Project\StartUp.Confluence\StartUp.Confluence\StartUp.Confluence.Model\obj\Debug\netcoreapp2.2\StartUp.Confluence.Model.dll
+F:\iMe\Project\StartUp\Project\StartUp.Confluence\StartUp.Confluence\StartUp.Confluence.Model\obj\Debug\netcoreapp2.2\StartUp.Confluence.Model.pdb
+F:\iMe\Project\StartUp\Project\StartUp.Confluence\StartUp.Confluence\StartUp.Confluence.Model\obj\Debug\netcoreapp2.2\StartUp.Confluence.Model.csprojAssemblyReference.cache

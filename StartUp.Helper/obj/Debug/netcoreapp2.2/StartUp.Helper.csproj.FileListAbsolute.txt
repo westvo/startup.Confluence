@@ -1,0 +1,9 @@
+F:\iMe\Project\StartUp\Project\StartUp.Confluence\StartUp.Confluence\StartUp.Helper\bin\Debug\netcoreapp2.2\StartUp.Helper.deps.json
+F:\iMe\Project\StartUp\Project\StartUp.Confluence\StartUp.Confluence\StartUp.Helper\bin\Debug\netcoreapp2.2\StartUp.Helper.dll
+F:\iMe\Project\StartUp\Project\StartUp.Confluence\StartUp.Confluence\StartUp.Helper\obj\Debug\netcoreapp2.2\StartUp.Helper.csproj.CoreCompileInputs.cache
+F:\iMe\Project\StartUp\Project\StartUp.Confluence\StartUp.Confluence\StartUp.Helper\obj\Debug\netcoreapp2.2\StartUp.Helper.AssemblyInfoInputs.cache
+F:\iMe\Project\StartUp\Project\StartUp.Confluence\StartUp.Confluence\StartUp.Helper\obj\Debug\netcoreapp2.2\StartUp.Helper.AssemblyInfo.cs
+F:\iMe\Project\StartUp\Project\StartUp.Confluence\StartUp.Confluence\StartUp.Helper\bin\Debug\netcoreapp2.2\StartUp.Helper.pdb
+F:\iMe\Project\StartUp\Project\StartUp.Confluence\StartUp.Confluence\StartUp.Helper\obj\Debug\netcoreapp2.2\StartUp.Helper.dll
+F:\iMe\Project\StartUp\Project\StartUp.Confluence\StartUp.Confluence\StartUp.Helper\obj\Debug\netcoreapp2.2\StartUp.Helper.pdb
+F:\iMe\Project\StartUp\Project\StartUp.Confluence\StartUp.Confluence\StartUp.Helper\obj\Debug\netcoreapp2.2\StartUp.Helper.csprojAssemblyReference.cache

@@ -1,0 +1,14 @@
+F:\iMe\Project\StartUp\Project\StartUp.Confluence\StartUp.Confluence\StartUp.Confluence.Repository\obj\Debug\netcoreapp2.2\StartUp.Confluence.Repository.csprojAssemblyReference.cache
+F:\iMe\Project\StartUp\Project\StartUp.Confluence\StartUp.Confluence\StartUp.Confluence.Repository\obj\Debug\netcoreapp2.2\StartUp.Confluence.Repository.csproj.CoreCompileInputs.cache
+F:\iMe\Project\StartUp\Project\StartUp.Confluence\StartUp.Confluence\StartUp.Confluence.Repository\obj\Debug\netcoreapp2.2\StartUp.Confluence.Repository.AssemblyInfoInputs.cache
+F:\iMe\Project\StartUp\Project\StartUp.Confluence\StartUp.Confluence\StartUp.Confluence.Repository\obj\Debug\netcoreapp2.2\StartUp.Confluence.Repository.AssemblyInfo.cs
+F:\iMe\Project\StartUp\Project\StartUp.Confluence\StartUp.Confluence\StartUp.Confluence.Repository\bin\Debug\netcoreapp2.2\StartUp.Confluence.Repository.deps.json
+F:\iMe\Project\StartUp\Project\StartUp.Confluence\StartUp.Confluence\StartUp.Confluence.Repository\bin\Debug\netcoreapp2.2\StartUp.Confluence.Repository.dll
+F:\iMe\Project\StartUp\Project\StartUp.Confluence\StartUp.Confluence\StartUp.Confluence.Repository\bin\Debug\netcoreapp2.2\StartUp.Confluence.Repository.pdb
+F:\iMe\Project\StartUp\Project\StartUp.Confluence\StartUp.Confluence\StartUp.Confluence.Repository\bin\Debug\netcoreapp2.2\StartUp.Confluence.Model.dll
+F:\iMe\Project\StartUp\Project\StartUp.Confluence\StartUp.Confluence\StartUp.Confluence.Repository\bin\Debug\netcoreapp2.2\StartUp.Confluence.UnitOfWork.dll
+F:\iMe\Project\StartUp\Project\StartUp.Confluence\StartUp.Confluence\StartUp.Confluence.Repository\bin\Debug\netcoreapp2.2\StartUp.Confluence.UnitOfWork.pdb
+F:\iMe\Project\StartUp\Project\StartUp.Confluence\StartUp.Confluence\StartUp.Confluence.Repository\bin\Debug\netcoreapp2.2\StartUp.Confluence.Model.pdb
+F:\iMe\Project\StartUp\Project\StartUp.Confluence\StartUp.Confluence\StartUp.Confluence.Repository\obj\Debug\netcoreapp2.2\StartUp.Confluence.Repository.csproj.CopyComplete
+F:\iMe\Project\StartUp\Project\StartUp.Confluence\StartUp.Confluence\StartUp.Confluence.Repository\obj\Debug\netcoreapp2.2\StartUp.Confluence.Repository.dll
+F:\iMe\Project\StartUp\Project\StartUp.Confluence\StartUp.Confluence\StartUp.Confluence.Repository\obj\Debug\netcoreapp2.2\StartUp.Confluence.Repository.pdb

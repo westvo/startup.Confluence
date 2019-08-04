@@ -1,0 +1,12 @@
+F:\iMe\Project\StartUp\Project\StartUp.Confluence\StartUp.Confluence\StartUp.Confluence.UnitOfWork\bin\Debug\netcoreapp2.2\StartUp.Confluence.UnitOfWork.deps.json
+F:\iMe\Project\StartUp\Project\StartUp.Confluence\StartUp.Confluence\StartUp.Confluence.UnitOfWork\bin\Debug\netcoreapp2.2\StartUp.Confluence.UnitOfWork.dll
+F:\iMe\Project\StartUp\Project\StartUp.Confluence\StartUp.Confluence\StartUp.Confluence.UnitOfWork\bin\Debug\netcoreapp2.2\StartUp.Confluence.UnitOfWork.pdb
+F:\iMe\Project\StartUp\Project\StartUp.Confluence\StartUp.Confluence\StartUp.Confluence.UnitOfWork\bin\Debug\netcoreapp2.2\StartUp.Confluence.Model.dll
+F:\iMe\Project\StartUp\Project\StartUp.Confluence\StartUp.Confluence\StartUp.Confluence.UnitOfWork\bin\Debug\netcoreapp2.2\StartUp.Confluence.Model.pdb
+F:\iMe\Project\StartUp\Project\StartUp.Confluence\StartUp.Confluence\StartUp.Confluence.UnitOfWork\obj\Debug\netcoreapp2.2\StartUp.Confluence.UnitOfWork.csprojAssemblyReference.cache
+F:\iMe\Project\StartUp\Project\StartUp.Confluence\StartUp.Confluence\StartUp.Confluence.UnitOfWork\obj\Debug\netcoreapp2.2\StartUp.Confluence.UnitOfWork.csproj.CoreCompileInputs.cache
+F:\iMe\Project\StartUp\Project\StartUp.Confluence\StartUp.Confluence\StartUp.Confluence.UnitOfWork\obj\Debug\netcoreapp2.2\StartUp.Confluence.UnitOfWork.AssemblyInfoInputs.cache
+F:\iMe\Project\StartUp\Project\StartUp.Confluence\StartUp.Confluence\StartUp.Confluence.UnitOfWork\obj\Debug\netcoreapp2.2\StartUp.Confluence.UnitOfWork.AssemblyInfo.cs
+F:\iMe\Project\StartUp\Project\StartUp.Confluence\StartUp.Confluence\StartUp.Confluence.UnitOfWork\obj\Debug\netcoreapp2.2\StartUp.Confluence.UnitOfWork.csproj.CopyComplete
+F:\iMe\Project\StartUp\Project\StartUp.Confluence\StartUp.Confluence\StartUp.Confluence.UnitOfWork\obj\Debug\netcoreapp2.2\StartUp.Confluence.UnitOfWork.dll
+F:\iMe\Project\StartUp\Project\StartUp.Confluence\StartUp.Confluence\StartUp.Confluence.UnitOfWork\obj\Debug\netcoreapp2.2\StartUp.Confluence.UnitOfWork.pdb

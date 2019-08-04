@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\StartUp.Helper\StartUp.Helper.csproj" />
+    <ProjectReference Include="..\StartUp.Confluence.Model\StartUp.Confluence.Model.csproj" />
+    <ProjectReference Include="..\StartUp.Confluence.Repository\StartUp.Confluence.Repository.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Shared\Accounts\" />
+  </ItemGroup>
+
+</Project>
