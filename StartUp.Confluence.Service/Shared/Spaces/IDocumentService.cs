@@ -6,7 +6,7 @@ using System.Text;
 
 namespace StartUp.Confluence.Service.Shared.Spaces
 {
-  public interface IContentService : IServiceBase<Content>
+  public interface IDocumentService : IServiceBase<Document>
   {
   }
 }

@@ -9,10 +9,10 @@ using System.Text;
 namespace StartUp.Confluence.Service.Implements.Spaces
 {
 
-  public class ContentService : ServiceBase<Content>, IServiceBase<Content>, IContentService
+  public class DocumentService : ServiceBase<Document>, IServiceBase<Document>, IDocumentService
   {
     IUnitOfWork _unitOfWork;
-    public ContentService(IUnitOfWork unitOfWork) : base(unitOfWork)
+    public DocumentService(IUnitOfWork unitOfWork) : base(unitOfWork)
     {
       _unitOfWork = unitOfWork;
     }

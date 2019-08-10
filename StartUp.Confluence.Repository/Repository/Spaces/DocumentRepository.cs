@@ -8,9 +8,9 @@ using System.Text;
 
 namespace StartUp.Confluence.Repository.Repository.Spaces
 {
-  public class ContentRepository : Repository<Content>, IRepository<Content>
+  public class DocumentRepository : Repository<Document>, IRepository<Document>
   {
-    public ContentRepository(ConfluenceDBContext dbContext) : base(dbContext)
+    public DocumentRepository(ConfluenceDBContext dbContext) : base(dbContext)
     {
 
     }

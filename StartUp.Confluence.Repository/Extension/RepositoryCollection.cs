@@ -24,7 +24,7 @@ namespace StartUp.Confluence.Repository.Extension
       service.AddCustomRepository<Industry, IndustryRepository>();
 
       service.AddCustomRepository<Space, SpaceRepository>();
-      service.AddCustomRepository<Content, ContentRepository>();
+      service.AddCustomRepository<Document, DocumentRepository>();
       service.AddCustomRepository<Category, CategoryRepository>();
       service.AddCustomRepository<Question, QuestionRepository>();
       service.AddCustomRepository<QuestionChoice, QuestionChoiceRepository>();

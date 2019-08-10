@@ -4,7 +4,7 @@ using System.Text;
 
 namespace StartUp.Confluence.Repository.Shared.Spaces
 {
-  interface IContentRepository
+  interface IDocumentRepository
   {
   }
 }

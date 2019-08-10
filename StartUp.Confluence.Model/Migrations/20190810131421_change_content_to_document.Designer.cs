@@ -3,15 +3,17 @@ using System;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using StartUp.Confluence.Model;
 
 namespace StartUp.Confluence.Model.Migrations
 {
     [DbContext(typeof(ConfluenceDBContext))]
-    partial class ConfluenceDBContextModelSnapshot : ModelSnapshot
+    [Migration("20190810131421_change_content_to_document")]
+    partial class change_content_to_document
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder

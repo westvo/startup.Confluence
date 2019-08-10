@@ -17,8 +17,8 @@ namespace StartUp.Confluence.Service.Extension
       services.AddScoped<IServiceBase<Space>, SpaceService>();
       services.AddScoped<ISpaceService, SpaceService>();
                              
-      services.AddScoped<IServiceBase<Content>, ContentService>();
-      services.AddScoped<IContentService, ContentService>();
+      services.AddScoped<IServiceBase<Document>, DocumentService>();
+      services.AddScoped<IDocumentService, DocumentService>();
                          
       services.AddScoped<IServiceBase<Question>, QuestionService>();
       services.AddScoped<IQuestionService, QuestionService>();

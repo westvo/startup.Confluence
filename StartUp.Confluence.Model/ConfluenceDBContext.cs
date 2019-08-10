@@ -23,7 +23,7 @@ namespace StartUp.Confluence.Model
     public DbSet<Industry> Industries { get; set; }
 
     public DbSet<Space> Spaces { get; set; }
-    public DbSet<Content> Contents { get; set; }
+    public DbSet<Document> Documents { get; set; }
 
     public DbSet<Category> Categories { get; set; }  
     public DbSet<Question> Questions { get; set; }

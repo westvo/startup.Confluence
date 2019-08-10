@@ -224,7 +224,7 @@ namespace StartUp.Confluence.Model.Migrations
                 });
 
             migrationBuilder.CreateTable(
-                name: "Content",
+                name: "Document",
                 columns: table => new
                 {
                     Id = table.Column<Guid>(nullable: false),
@@ -238,7 +238,7 @@ namespace StartUp.Confluence.Model.Migrations
                     VotesCount = table.Column<int>(nullable: false),
                     ViewsCount = table.Column<int>(nullable: false),
                     Title = table.Column<string>(nullable: true),
-                    Contents = table.Column<string>(nullable: true),
+                    Documents = table.Column<string>(nullable: true),
                     Status = table.Column<int>(nullable: false),
                     Version = table.Column<int>(nullable: false),
                     Name = table.Column<string>(nullable: true),
@@ -248,15 +248,15 @@ namespace StartUp.Confluence.Model.Migrations
                 },
                 constraints: table =>
                 {
-                    table.PrimaryKey("PK_Content", x => x.Id);
+                    table.PrimaryKey("PK_Document", x => x.Id);
                     table.ForeignKey(
-                        name: "FK_Content_Content_ParentId",
+                        name: "FK_Document_Document_ParentId",
                         column: x => x.ParentId,
-                        principalTable: "Content",
+                        principalTable: "Document",
                         principalColumn: "Id",
                         onDelete: ReferentialAction.Restrict);
                     table.ForeignKey(
-                        name: "FK_Content_Space_SpaceId",
+                        name: "FK_Document_Space_SpaceId",
                         column: x => x.SpaceId,
                         principalTable: "Space",
                         principalColumn: "Id",
@@ -417,13 +417,13 @@ namespace StartUp.Confluence.Model.Migrations
                 column: "ContactId");
 
             migrationBuilder.CreateIndex(
-                name: "IX_Content_ParentId",
-                table: "Content",
+                name: "IX_Document_ParentId",
+                table: "Document",
                 column: "ParentId");
 
             migrationBuilder.CreateIndex(
-                name: "IX_Content_SpaceId",
-                table: "Content",
+                name: "IX_Document_SpaceId",
+                table: "Document",
                 column: "SpaceId");
 
             migrationBuilder.CreateIndex(
@@ -464,7 +464,7 @@ namespace StartUp.Confluence.Model.Migrations
                 name: "ContactAudit");
 
             migrationBuilder.DropTable(
-                name: "Content");
+                name: "Document");
 
             migrationBuilder.DropTable(
                 name: "UserQuestionAnswer");

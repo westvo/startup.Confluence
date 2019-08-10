@@ -22,7 +22,7 @@ namespace StartUp.Confluence.Service.Implements.Confluence
 
     public async Task<object> GetQuestions(Guid id)
     {
-      var category = await _unitOfWork.GetRepository<Category>().GetFirstOrDefaultAsync(predicate: p => p.Id == id, include: c => c.Include(s => s.Questions));
+      var category = await _unitOfWork.GetRepository<Category>().GetFirstOrDefaultAsync(predicate: p => p.Id == id, include: c => c.Include(s => s.Spaces));
       return Ultilities.ConvertModelToString(category);
     }
   }
